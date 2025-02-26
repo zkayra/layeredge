@@ -266,3 +266,6 @@
 [19:21:49 | 26-02-2025] Last Claim Point: 25/02/2025 12:21:45
 [19:21:50 | 26-02-2025] ✅ Points claimed for 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27
 [19:21:51 | 26-02-2025] 🚨 Failed to start node for 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27: [object Object]
+[23:14:27 | 26-02-2025] Wallet Address: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27
+[23:14:27 | 26-02-2025] Node Points: 207330
+[23:14:27 | 26-02-2025] Last Claim Point: 26/02/2025 12:21:50
